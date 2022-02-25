@@ -1,6 +1,7 @@
 # Team Profile Generator
   ## Description
-  Generate a Team Profile. Where you can generate an Manager profle, an Engineer Profile and an Intern Profile
+  Generate a Team Profile. Where you can generate an Manager profle, an Engineer Profile and an Intern Profile.
+  Here is the Demo Video https://loom.com/share/6069abbca966424284ea428a5f12283e 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
