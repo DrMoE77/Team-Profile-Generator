@@ -1,6 +1,6 @@
 # Team Profile Generator
   ## Description
-  undefined
+  Generate a Team Profile. Where you can generate an Manager profle, an Engineer Profile and an Intern Profile
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
